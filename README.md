@@ -53,7 +53,7 @@ See [TEMPLATE.md](TEMPLATE.md) for the dispatch format.
 
 ## Also from booklib-ai
 
-- **[booklib-ai/skills](https://github.com/booklib-ai/skills)** — Classic software engineering books converted into structured AI agent skills. Install via npm, use with Claude Code, Cursor, and any MCP-compatible tool.
+- **[booklib-ai/skills](https://github.com/booklib-ai/skills)** — Plug-and-play expertise for AI coding agents. Structured engineering skills distributed via npm that integrate with Claude Code, Cursor, Windsurf, and any MCP-compatible tool. Give your AI assistant the knowledge of a senior engineer — design patterns, clean architecture, testing strategies, and more.
 
 ## License
 
