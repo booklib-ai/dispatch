@@ -498,7 +498,7 @@ cat << 'FIX'
 FIX
 
 info "Block C2 at network level:"
-detail "echo '0.0.0.0 sfrclak.com' | sudo tee -a /etc/hosts"
+detail "printf '\n0.0.0.0 sfrclak.com\n' | sudo tee -a /etc/hosts"
 if [ "$OS" = "Darwin" ]; then
     detail "Or firewall: echo 'block drop out to 142.11.206.73' | sudo pfctl -ef -"
 else
